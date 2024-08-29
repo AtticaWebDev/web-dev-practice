@@ -47,11 +47,3 @@ Aucune installation n'est nécessaire. Il suffit d'ouvrir le fichier HTML conten
 ## Contribuer
 
 Les contributions sont les bienvenues. Pour proposer des améliorations ou signaler des bugs, veuillez ouvrir une issue ou soumettre une pull request.
-
-## Auteur
-
-[Votre Nom]
-
-## Licence
-
-Ce projet est sous licence [nom de la licence].
